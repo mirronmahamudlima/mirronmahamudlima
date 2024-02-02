@@ -6,7 +6,20 @@
 
  I am a passionate full-stack web developer based in Bangladesh. I have a passion for learning and sharing my knowledge with others. I am improving my web development skills. Every day I am learning something new and sharing my knowledge with my students and others.
 
-Skills: HTML / CSS / BOOTSTRAP/ JQUERY / CSS - SASS  / TAILWIND CSS  /  WORDPRESS / JAVASCRIPT / DB - MySQL / SQLite / PHP / LARAVEL 
+## 🤹🏾‍♀️ Skills & Experience: 
+✅HTML
+✅CSS
+✅BOOTSTRAP
+✅JQUERY
+✅CSS - SASS
+✅TAILWIND CSS
+✅WORDPRESS
+✅JAVASCRIPT
+✅DB - MySQL
+✅SQLite
+✅PHP
+✅LARAVEL 
+ 
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning JAVASCRIPT & LARAVEL 
